@@ -122,7 +122,7 @@ HAVING SUM(o.unit) >= 100;
 ## Complexity Analysis
 
 * **Time Complexity:** O(n)
-* **Space Complexity:** O(1) (excluding output)
+* **Space Complexity:** O(1) (excluding output).
 
 ---
 
